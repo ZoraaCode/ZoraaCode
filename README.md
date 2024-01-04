@@ -41,7 +41,7 @@
     srcset="https://streak-stats.demolab.com/?user=zoracode&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j&show_icons=true"
     media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
   />
-  <img alt="my stats" align="left" width="420" src="https://streak-stats.demolab.com/?user=zoracode&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j&theme=dark" />
+  <img alt="my stats" align="left" width="410" src="https://streak-stats.demolab.com/?user=zoracode&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j&theme=dark" />
 </picture>
 
 <picture>
@@ -53,7 +53,7 @@
     srcset="https://streak-stats.demolab.com/?user=zoracode&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j&show_icons=true"
     media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
   />
-  <img alt="my stats" align="left" width="420" src="https://streak-stats.demolab.com/?user=zoracode&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j&theme=dark" />
+  <img alt="my stats" align="left" width="410" src="https://streak-stats.demolab.com/?user=zoracode&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j&theme=dark" />
 </picture>
 
 <p align="center">

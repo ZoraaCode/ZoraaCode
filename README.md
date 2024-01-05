@@ -8,8 +8,8 @@
   <img src="https://komarev.com/ghpvc/?username=zoracode&label=Profile%20views&color=0e75b6&style=flat" alt="zoracode" /> </p>
 
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy&theme=dark">
-    <img src="https://github-profile-trophy.vercel.app/?username=zoracode" alt="zoracode" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=zoracode&theme=dark" alt="zoracode" />
   </a>
 </p>
 

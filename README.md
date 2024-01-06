@@ -1,12 +1,13 @@
-<h1 align="center"
-  >Hi 👋, I'm Zora ID
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋,+Introduce+I'm+Zora%20ID; Developer+From+Indonesia"/>
+</p>
+  
 <h3 align="center"
   >A passionate frontend developer from Indonesia🇮🇩
 </h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=zoracode&label=Profile%20views&color=0e75b6&style=flat" alt="zoracode" /> </p>
+  <img src="https://komarev.com/ghpvc/?username=zoracode&label=Profile%20views&color=0e75b6&style=flat" alt="zoracode" /> </p>  
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">

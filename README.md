@@ -17,9 +17,9 @@
  </p>
 
 <p align="center">
-    <img src="https://streak-stats.demolab.com/?user=zoracode&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j&show_icons=true&theme=dark" width="550/>
+    <img src="https://streak-stats.demolab.com/?user=zoracode&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j&show_icons=true&theme=dark" width="400/>
  </p>
 
  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ZoraCode&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&show_icons=true&theme=dark" width="550"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=ZoraCode&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&show_icons=true&theme=dark" width="400"/>
  </p>

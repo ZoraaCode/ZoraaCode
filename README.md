@@ -3,11 +3,8 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋,+Introduce+I'm+Zora%20ID; Welcome+I'm+From+Indonesia"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+👋,+I'm+Zora%20ID; Development+From+Indonesia"/>
 </p>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=zoracode&label=Profile%20views&color=0e75b6&style=flat" alt="zoracode" /> </p>  
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">

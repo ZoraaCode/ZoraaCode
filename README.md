@@ -40,5 +40,5 @@
     srcset="https://github-readme-stats.vercel.app/api?username=ZoraCode&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark), (prefers-color-scheme: dark)"
   />
-  <img alt="my stats" align="left" width="410" src="https://github-readme-stats.vercel.app/api?username=ZoraCode&show_icons=true&theme=dark&theme=dark" />
+  <img alt="my stats" align="left" width="410" src="https://github-readme-stats.vercel.app/api?username=ZoraCode&show_icons=true&theme=dark" />
 </picture>

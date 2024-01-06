@@ -12,10 +12,6 @@
   </a>
 </p>
 
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=py,html,linux,vim" width="90"/>
- </p>
-
 <h3 align="center"
   >⚡ Stats ⚡
 </h3>

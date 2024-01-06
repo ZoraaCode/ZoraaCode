@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋,+Introduce+I'm+Zora%20ID; Developer+From+Indonesia"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋,+Introduce+I'm+Zora%20ID; Welcome+I'm+From+Indonesia"/>
 </p>
 
 <p align="left">
@@ -11,7 +11,7 @@
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=zoracode&theme=dark" alt="zoracode" />
+    <img src="https://github-profile-trophy.vercel.app/?username=zoracode" alt="zoracode" />
   </a>
 </p>
 

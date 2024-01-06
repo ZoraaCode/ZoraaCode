@@ -39,11 +39,11 @@
     <img src="https://github-readme-stats.vercel.app/api?username=ZoraaCode&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&show_icons=true&theme=transparent" width="300"/>
  </p>
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZoraaCode&hide_progress=true&show_icons=true&theme=transparent" width="300"/>
- </p>
-
  <p align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZoraaCode &theme=transparent" width="300"/>
+ </p>
+ 
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZoraaCode&hide_progress=true&show_icons=true&theme=transparent" width="300"/>
  </p>
  

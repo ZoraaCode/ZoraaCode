@@ -35,28 +35,24 @@
 
 <picture>
   <source
-    srcset="https://streak-stats.demolab.com/?user=zoracode&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j&show_icons=true"
+    srcset="https://streak-stats.demolab.com/?user=zoracode&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://streak-stats.demolab.com/?user=zoracode&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j&show_icons=true"
-    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+    srcset="https://streak-stats.demolab.com/?user=zoracode&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark), (prefers-color-scheme:dark)"
   />
   <img alt="my stats" align="left" width="410" src="https://streak-stats.demolab.com/?user=zoracode&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j&theme=dark" />
 </picture>
 
 <picture>
   <source
-    srcset="https://streak-stats.demolab.com/?user=zoracode&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=ZoraCode&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://streak-stats.demolab.com/?user=zoracode&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j&show_icons=true"
-    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+    srcset="https://github-readme-stats.vercel.app/api?username=ZoraCode&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark), (prefers-color-scheme: dark)"
   />
-  <img alt="my stats" align="left" width="410" src="https://streak-stats.demolab.com/?user=zoracode&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j&theme=dark" />
+  <img alt="my stats" align="left" width="410" src="https://github-readme-stats.vercel.app/api?username=ZoraCode&show_icons=true&theme=dark&theme=dark" />
 </picture>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZoraCode&show_icons=true&theme=dark"/>
-</p>

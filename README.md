@@ -20,14 +20,14 @@
   >⚡ Stats ⚡
 </h3>
 <p align="center">
-    <img src="https://streak-stats.demolab.com/?user=zoracode&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j&show_icons=true&theme=transparent" width="300/>
+    <img src="https://streak-stats.demolab.com/?user=ZoraaCode&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j&show_icons=true&theme=transparent" width="300/>
  </p>
 
  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ZoraCode&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&show_icons=true&theme=transparent" width="300"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=ZoraaCode&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&show_icons=true&theme=transparent" width="300"/>
  </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&show_icons=true&theme=transparent" width="300"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZoraaCode&hide_progress=true&show_icons=true&theme=transparent" width="300"/>
  </p>
  

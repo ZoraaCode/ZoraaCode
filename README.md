@@ -6,10 +6,11 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+👋,+I'm+Zora%20ID; People+From+Indonesia"/>
 </p>
 
+<h3 align="center"
+  >🏆 Informasi Piala 🏆
+</h3>
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=zoracode" alt="zoracode" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=ZoraaCode&theme=transparent" />
 </p>
 
 <h3 align="center"

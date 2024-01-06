@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+👋,+I'm+Zora%20ID; Development+From+Indonesia"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+👋,+I'm+Zora%20ID; People+From+Indonesia"/>
 </p>
 
 <p align="left">

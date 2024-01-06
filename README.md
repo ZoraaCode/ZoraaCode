@@ -1,3 +1,7 @@
+<p align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge"/>
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋,+Introduce+I'm+Zora%20ID; Developer+From+Indonesia"/>
 </p>
